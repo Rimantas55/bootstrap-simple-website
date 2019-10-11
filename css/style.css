@@ -7,3 +7,35 @@ body {
 	border-bottom: #008ed6 3px solid;
 	opacity: 0.8;
 }
+
+#home-section {
+	border:4px solid yellow;
+}
+
+.dark-overlay {
+	border:4px solid green;
+}
+
+.home-inner {
+	border:4px solid white;
+}
+
+.row {
+	border:4px solid red;
+}
+
+.col-lg-8 {
+	border:4px solid orange;
+}
+
+.col-lg-4 {
+	border:4px solid blue;
+}
+
+.d-flex {
+	border:4px solid white;
+}
+
+h1 {
+	border:4px solid yellow;
+}
