@@ -8,7 +8,7 @@ body {
 	opacity: 0.8;
 }
 
-#home-section {
+/*#home-section {
 	border:4px solid yellow;
 }
 
@@ -38,7 +38,7 @@ body {
 
 h1 {
 	border:4px solid yellow;
-}
+}*/
 
 /*-----------------------*/
 
@@ -65,4 +65,19 @@ h1 {
 
 #home-section .card-form {
 	opacity: 0.8;
+}
+
+#home-section .fas {
+	color: #008ed6;
+	background-color: #fff;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#explore-section .fas,
+#share-section .fas {
+	background-color: #333;
+	color: #fff;
+	padding: 5px;
+	border-radius: 5px;
 }
